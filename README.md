@@ -3,6 +3,8 @@
 ## Introduction
 
 The app will take in orders from customers and deplete stock from the store's inventory. 
+
+## The advantages
 The  application will accept orders and check id the store has enough products to meet the customer request. 
 If there is not enough products on stock, the app will inform to the customer. 
 
@@ -11,3 +13,5 @@ If there is not enough products on stock, the app will inform to the customer.
 - the MySQL.
 - NPM Package.
 - Prompt Package.
+
+## Customer View
