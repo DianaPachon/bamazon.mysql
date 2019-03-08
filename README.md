@@ -17,3 +17,5 @@ If there is not enough products on stock, the app will inform to the customer.
 ## Customer View
 
 <img width="653" alt="Screen Shot 2019-03-08 at 3 18 59 PM" src="https://user-images.githubusercontent.com/44978024/54056362-d46c4300-41bd-11e9-8959-432e29ac5337.png">
+
+<img width="569" alt="Screen Shot 2019-03-08 at 3 45 10 PM" src="https://user-images.githubusercontent.com/44978024/54056408-f5cd2f00-41bd-11e9-9a39-44748ce89f63.png">
